@@ -10,6 +10,8 @@ The app requests the backend a signature. The backend generates a signature, and
 
 If the signature is verified in the smart contract, the NFT is minted to the user.
 
+Refer to the AstroRaceTracks.Mint function
+
 NOTE: Please fill in the RPC_URL fields in Constant.cs file
 
 
